@@ -1,13 +1,13 @@
 #  FullStack Project -> Rastreamento de veículos
 
 ## Visão do projeto
-####BackEnd
+#### BackEnd
 API desenvolvida em Node + Express para contemplar as operações de inclusão e consulta para salvar em banco não relacional.
 
-####FrontEnd
+#### FrontEnd
 Página Web desenvolvida em Angular + PrimeNG para apresentar as informações na tela.
 
-####Banco
+#### Banco
 MongoDB criado em nuvem(AWS) para armazenar as informações necessárias.
 
 ## Configurando a aplicação
