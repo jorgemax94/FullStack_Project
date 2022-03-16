@@ -24,16 +24,16 @@ MongoDB criado em nuvem(AWS) para armazenar as informações necessárias.
 
     $ npm install
 
-1.1) Após o comando acima ter sido executado com sucesso, execute o seguinte comando para rodar a aplicação:
+2) Após o comando acima ter sido executado com sucesso, execute o seguinte comando para rodar a aplicação:
 
     $ npm start
 
 #### FrontEnd
-2) Dentro da pasta do projeto abra a pasta 'Angular' execute o seguinte comando para instalar as dependências do projeto:
+1) Dentro da pasta do projeto abra a pasta 'Angular' execute o seguinte comando para instalar as dependências do projeto:
 
     $ npm install
 
-2.1) Após o comando acima ter sido executado com sucesso, execute o seguinte comando para rodar a aplicação:
+2) Após o comando acima ter sido executado com sucesso, execute o seguinte comando para rodar a aplicação:
 
     $ ng serve
 
