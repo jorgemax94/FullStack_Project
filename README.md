@@ -35,7 +35,7 @@ MongoDB criado em nuvem(AWS) para armazenar as informações necessárias.
 
 2) Após o comando acima ter sido executado com sucesso, execute o seguinte comando para rodar a aplicação:
 
-    $ ng serve
+    $ npm start
 
 #### Acesso
 1) Quando a aplicação estiver rodando executar o comando abaixo ou acessar diretamente o endereço **http://localhost:4200** no navegador:
