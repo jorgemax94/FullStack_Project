@@ -60,8 +60,8 @@ export class AppComponent {
 
   }
 
-  redirecionarMapa(item: { latitude: any; longitude: any; }){
-    window.open(`http://maps.google.com/maps?q=${item.latitude},${item.longitude}`, '_blank');
+  redirecionarMapa(item: { latitude: any; longitude: any; ponto: any}){
+    window.open(`https://www.google.com/maps/dir/${item.ponto.latitude},${item.ponto.longitude}/${item.latitude},${item.longitude}/@${item.latitude},${item.longitude},16z`, '_blank');
   }
 
   clear(table: Table) {
